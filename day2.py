@@ -95,3 +95,21 @@
 # a, b = map(int, input().split())
 # num1 = [a, b]
 # print(min(num1),max(num1))
+
+# 6278
+# a, b = map(int, input().split())
+# num1 = int(a)
+# num2 = int(b)
+# if (num1 + num2) % 2 != 0:
+#     print(0)
+# else:
+#     print(1)
+
+# 7460
+# import math
+# # a,b,c = map(int,input().split())
+# # n = int(a)
+# # m = int(b)
+# # k = int(c)
+# # room = math.ceil(n / k) + math.ceil(m / k)
+# # print(room)
